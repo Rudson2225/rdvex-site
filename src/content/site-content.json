@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "siteName": "RDVEX",
+    "tagline": "Informática e TI no Rio de Janeiro",
+    "language": "pt-BR"
+  },
+  "hero": {
+    "headline": "Informática e TI que funciona de verdade, no Rio de Janeiro",
+    "subheadline": "Manutenção, redes, segurança e desenvolvimento web com atendimento rápido, técnico especializado e preço justo. Atendimento presencial e remoto para pessoas e empresas.",
+    "ctaPrimary": "Falar no WhatsApp",
+    "ctaSecondary": "Ver serviços"
+  },
+  "services": [
+    {
+      "id": "manutencao-computadores",
+      "title": "Manutenção de computadores",
+      "description": "Diagnóstico completo e correção de falhas em desktops e notebooks. Desempenho, estabilidade e longevidade para seu equipamento."
+    },
+    {
+      "id": "instalacao-software",
+      "title": "Instalação de software",
+      "description": "Instalação e configuração de sistemas operacionais, aplicativos e drivers com otimização inicial e testes de funcionamento."
+    },
+    {
+      "id": "formatacao",
+      "title": "Formatação",
+      "description": "Formatação limpa com backup dos seus arquivos, atualização de drivers e configuração de programas essenciais."
+    },
+    {
+      "id": "limpeza-virus",
+      "title": "Limpeza de vírus e malware",
+      "description": "Remoção de vírus, spyware e ransomware, varredura profunda e proteção pós-limpeza para evitar reinfecção."
+    },
+    {
+      "id": "suporte-remoto",
+      "title": "Suporte remoto",
+      "description": "Atendimento rápido via acesso remoto seguro. Resolução de problemas sem sair de casa ou do escritório."
+    },
+    {
+      "id": "suporte-presencial",
+      "title": "Suporte presencial",
+      "description": "Visita técnica em domicílio ou empresa no Rio e região metropolitana. Diagnóstico no local e solução imediata."
+    },
+    {
+      "id": "rede-wifi",
+      "title": "Rede e Wi-Fi",
+      "description": "Instalação, cabeamento estruturado, configuração de roteadores e ampliação de sinal para rede estável em toda a casa ou empresa."
+    },
+    {
+      "id": "desenvolvimento-web",
+      "title": "Desenvolvimento web",
+      "description": "Sites responsivos, rápidos e otimizados para Google. Código limpo e escalável com foco em conversão."
+    },
+    {
+      "id": "criacao-sites",
+      "title": "Criação de sites institucionais",
+      "description": "Site profissional do zero com identidade visual, SEO básico e fácil atualização. Ideal para profissionais e pequenos negócios."
+    },
+    {
+      "id": "ecommerce",
+      "title": "E-commerce",
+      "description": "Loja virtual completa com meios de pagamento, frete, checkout otimizado e integração com ERP ou sistema de gestão."
+    },
+    {
+      "id": "manutencao-preventiva",
+      "title": "Manutenção preventiva",
+      "description": "Limpeza interna, troca de pasta térmica, revisão de componentes e backups programados para evitar paradas inesperadas."
+    },
+    {
+      "id": "recuperacao-dados",
+      "title": "Recuperação de dados",
+      "description": "Recuperação de arquivos apagados, HD com cliques ou partições corrompidas. Avaliação sem compromisso e sigilo total."
+    },
+    {
+      "id": "upgrade-hardware",
+      "title": "Upgrade de hardware",
+      "description": "Melhoria de performance com aumento de RAM, SSD, placa de vídeo e outros componentes compatíveis com seu equipamento."
+    },
+    {
+      "id": "perifericos",
+      "title": "Periféricos",
+      "description": "Instalação e configuração de monitores, teclados, mouses, headsets, microfones e acessórios de produtividade."
+    },
+    {
+      "id": "notebooks-desktops",
+      "title": "Notebooks e desktops",
+      "description": "Atendimento especializado para todas as marcas. Solução de aquecimento, bateria, tela e problemas de mobilidade."
+    },
+    {
+      "id": "impressoras",
+      "title": "Impressoras",
+      "description": "Instalação, configuração de rede, limpeza de cabeçotes, troca de peças e resolução de erros de impressão."
+    },
+    {
+      "id": "seguranca-digital",
+      "title": "Segurança digital",
+      "description": "Análise de vulnerabilidades, antivírus corporativo, firewall e boas práticas para proteger dados pessoais e empresariais."
+    },
+    {
+      "id": "backup-nuvem",
+      "title": "Backup na nuvem",
+      "description": "Soluções de backup automatizado e seguro, com restauração rápida e controle de versões para arquivos importantes."
+    },
+    {
+      "id": "consultoria-ti",
+      "title": "Consultoria TI para pequenas empresas",
+      "description": "Planejamento de infraestrutura, escolha de equipamentos, políticas de segurança e suporte gerenciado sob demanda."
+    }
+  ],
+  "about": {
+    "title": "Sobre a RDVEX",
+    "text": "A RDVEX é uma empresa de informática e tecnologia da informação focada em soluções práticas para pessoas e pequenos negócios no Rio de Janeiro. Atuamos desde manutenção de computadores até desenvolvimento web e consultoria de TI, sempre com atendimento humano, diagnóstico claro e orçamentos transparentes.\n\nNossa missão é simplificar a tecnologia: explicar o que precisa ser feito, por quê e quanto custa, sem jargões. Trabalhamos com suporte remoto e presencial, cobrindo a capital e a região metropolitana, com foco em resultado, agilidade e confiança."
+  },
+  "whyChooseUs": [
+    {
+      "title": "Atendimento local no Rio",
+      "description": "Equipe baseada no Rio de Janeiro com visitas presenciais rápidas e suporte remoto imediato."
+    },
+    {
+      "title": "Diagnóstico transparente",
+      "description": "Orçamento detalhado antes de iniciar. Você aprova e só então executamos o serviço."
+    },
+    {
+      "title": "Experiência técnica comprovada",
+      "description": "Soluções para hardware, software, redes e desenvolvimento web com processos padronizados."
+    },
+    {
+      "title": "Suporte pós-serviço",
+      "description": "Acompanhamento após a entrega para garantir que tudo continue funcionando como esperado."
+    },
+    {
+      "title": "Foco em pequenos negócios",
+      "description": "Entendemos as limitações de tempo e orçamento. Priorizamos soluções eficazes e sustentáveis."
+    }
+  ],
+  "areas": {
+    "title": "Áreas atendidas",
+    "text": "Atendemos em toda a cidade do Rio de Janeiro e região metropolitana com suporte presencial e remoto.",
+    "cities": [
+      "Rio de Janeiro",
+      "Niterói",
+      "São Gonçalo",
+      "Duque de Caxias",
+      "Nova Iguaçu",
+      "Belford Roxo",
+      "Mesquita",
+      "Nilópolis",
+      "Queimados",
+      "Itaboraí",
+      "São João de Meriti",
+      "Magé"
+    ]
+  },
+  "hours": {
+    "weekdays": "Segunda a Sexta: 9h às 18h",
+    "saturday": "Sábado: 9h às 13h",
+    "closed": "Domingo: fechado"
+  },
+  "testimonials": [
+    {
+      "name": "Mariana Souza",
+      "role": "Proprietária de salão, Copacabana",
+      "text": "Meu notebook estava extremamente lento e com vírus. A RDVEX fez limpeza, formatação e configurou tudo. Em 2 dias estava funcionando como novo e o preço foi justo. Atendimento muito atencioso."
+    },
+    {
+      "name": "Roberto Lima",
+      "role": "Contador, Tijuca",
+      "text": "Precisava recuperar documentos do meu HD antigo. Eles avaliaram sem cobrar e conseguiram recuperar quase tudo. Também configuraram backup na nuvem para não correr risco de novo. Recomendo demais."
+    },
+    {
+      "name": "Ana Paula Mendes",
+      "role": "E-commerce, Barra da Tijuca",
+      "text": "Contratei para criar a loja virtual e suporte de rede no escritório. Site ficou rápido, bonito e já estamos vendendo. O suporte remoto resolve tudo em minutos. Parceria de confiança."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Vocês atendem em domicílio?",
+      "answer": "Sim. Atendemos presencialmente no Rio de Janeiro e região metropolitana. Para fora da área cobramos taxa de deslocamento, avaliada previamente."
+    },
+    {
+      "question": "Quanto tempo leva uma formatação?",
+      "answer": "Geralmente entre 3 a 6 horas úteis, dependendo do volume de backup e programas a instalar. Avisamos o prazo exato após o diagnóstico."
+    },
+    {
+      "question": "Vocês fazem recuperação de dados?",
+      "answer": "Sim. Fazemos avaliação inicial sem custo. A recuperação depende do estado do disco. Se possível, informamos taxa e prazo antes de iniciar."
+    },
+    {
+      "question": "Atendem empresas pequenas?",
+      "answer": "Sim. Oferecemos suporte sob demanda, manutenção preventiva, rede Wi-Fi, segurança digital e consultoria TI para pequenas empresas."
+    },
+    {
+      "question": "Como funciona o suporte remoto?",
+      "answer": "Agendamos um horário rápido. Você instala uma ferramenta de acesso seguro, compartilhamos a tela e resolvemos o problema sem você precisar sair de casa."
+    },
+    {
+      "question": "Dão garantia nos serviços?",
+      "answer": "Sim. Serviços de manutenção e instalação têm garantia de 30 dias. Peças trocadas têm garantia de fabricante. Detalhes são informados no orçamento."
+    }
+  ],
+  "cta": {
+    "title": "Precisa de ajuda com seu computador ou site?",
+    "subtitle": "Fale com a RDVEX agora pelo WhatsApp e receba um diagnóstico rápido. Atendimento humanizado, sem enrolação.",
+    "buttons": [
+      {
+        "label": "Chamar no WhatsApp",
+        "link": "https://wa.me/5521987837387"
+      },
+      {
+        "label": "Enviar e-mail",
+        "link": "mailto:contato@rdvex.tech"
+      }
+    ]
+  },
+  "contact": {
+    "whatsapp": "+55 (21) 98783-7387",
+    "email": "contato@rdvex.tech",
+    "instagram": "@rdvex.tech"
+  }
+}
