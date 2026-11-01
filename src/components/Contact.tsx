@@ -3,7 +3,7 @@ import { Phone, Mail, Instagram, MapPin, Clock, MessageCircle } from 'lucide-rea
 
 export default function Contact() {
   const whatsapp = '5521987837387';
-  const email = 'contato@rdvex.tech';
+  const email = 'rdvex.contato@gmail.com';
   const instagram = '@rdvex.tech';
 
   return (

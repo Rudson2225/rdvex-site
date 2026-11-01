@@ -4,7 +4,7 @@ import { Phone, Mail, Instagram, ArrowUp } from 'lucide-react';
 export default function Footer() {
   const [year] = useState(new Date().getFullYear());
   const whatsapp = '5521987837387';
-  const email = 'contato@rdvex.tech';
+  const email = 'rdvex.contato@gmail.com';
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
