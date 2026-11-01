@@ -1,0 +1,24 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Fundo circular -->
+  <circle cx="32" cy="32" r="30" fill="#0b1220" stroke="url(#iconGrad)" stroke-width="2"/>
+  
+  <!-- Monograma R -->
+  <g transform="translate(18, 14)">
+    <path d="M0 0 L24 0 L24 36 L0 36 Z" fill="url(#iconGrad)"/>
+    <path d="M14 0 L32 18 L14 36" fill="#0b1220" opacity="0.9"/>
+    <rect x="10" y="10" width="4" height="16" fill="#0b1220"/>
+  </g>
+  
+  <!-- Pontos de conexão tech -->
+  <circle cx="50" cy="12" r="2" fill="#22c55e"/>
+  <circle cx="12" cy="50" r="2" fill="#3b82f6"/>
+  <circle cx="50" cy="52" r="2" fill="#22c55e"/>
+</svg>
