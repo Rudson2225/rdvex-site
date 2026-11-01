@@ -18,7 +18,7 @@ export default function Header() {
     <header className={`nav ${scrolled ? 'scrolled' : ''}`}>
       <div className="container nav-inner">
         <div className="logo">
-          <img src="/logo.svg" alt="RDVEX" height="32" />
+          <img src="/logo-premium.svg" alt="RDVEX" height="60" style={{width:'auto'}} />
         </div>
         <nav className="nav-links" aria-label="Principal">
           <a href="#servicos">Serviços</a>
